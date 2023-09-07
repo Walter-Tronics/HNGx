@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&family=Poppins&display=swap');
 
 
-
 *{
     padding: 0;
     margin: 0;
@@ -25,7 +24,6 @@ main{
     background: rgba(212, 201, 201, 0.7);
     padding: .5em;
     border-radius: 10px;
-    /* box-shadow: inset 5px 5px 5px rgba(0, 0, 0, .3); */
     backdrop-filter: blur(30px);
 }
 
