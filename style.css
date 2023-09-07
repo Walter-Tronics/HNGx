@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+main{
+    display: grid;
+    place-items: center;
+    width: min(50%, 300px);
+    border: 1px solid;
+}
+
+.img{
+    border: 1px solid;
+    width: 90%;
+    border-radius: 5px;
+}
+
+.img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
