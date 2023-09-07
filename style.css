@@ -21,7 +21,7 @@ body{
 }
 
 main{
-    width: min(50%, 300px);
+    width: min(90%, 300px);
     background: rgba(212, 201, 201, 0.7);
     padding: .5em;
     border-radius: 10px;
