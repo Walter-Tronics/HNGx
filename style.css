@@ -20,10 +20,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-/* #91735b */
-/* #f5cc94 */
-/* #72523b */
-/* #9f8a75 */
 main{
     width: min(50%, 300px);
     background: rgba(212, 201, 201, 0.7);
@@ -66,4 +62,8 @@ a{
     padding: .5em 1em;
     width: fit-content;
     text-align: center;
+}
+
+a i{
+    margin-right: 10px;
 }
